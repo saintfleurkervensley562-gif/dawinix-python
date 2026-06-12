@@ -1,0 +1,35 @@
+"""
+Type stub file for build module.
+"""
+
+from typing import Optional, List, Dict, Any
+from pydantic import BaseModel
+from dawinix_sdk.types import AgentResult, SkillType, AgentMode
+
+class Skill:
+    HTTP_REQUEST: SkillType
+    WEB_SEARCH: SkillType
+    FILE_PROCESSING: SkillType
+
+class Agent:
+    def __init__(
+        self,
+        api_key: Optional[str] = None,
+        model: str = "dawinix-4",
+        skills: Optional[List[SkillType]] = None,
+        **kwargs: Any,
+    ) -> None: ...
+
+    def run(
+        self,
+        task: str,
+        mode: AgentMode = AgentMode.BALANCED,
+        output_schema: Optional[BaseModel] = None,
+        files: Optional[List[str]] = None,
+    ) -> AgentResult: ...
+
+    def batch(
+        self,
+        tasks: List[str],
+        mode: AgentMode = AgentMode.BALANCED,
+    ) -> List[AgentResult]: ...
