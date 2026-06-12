@@ -48,6 +48,8 @@ print(result.output)
 
 See [docs](./docs/) for full documentation.
 
+[![PyPI version](https://img.shields.io/pypi/v/dawinix-python.svg)](https://pypi.org/project/dawinix-python/)
+
 ## Examples
 
 Check the [examples/](./examples/) directory for more examples.
