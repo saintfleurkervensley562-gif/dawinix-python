@@ -1,7 +1,7 @@
 """
 README for the Dawinix Python SDK.
 """
-<!-- prettier-ignore --> [![PyPI version](https://img.shields.io/pypi/v/openai.svg?label=pypi%20(stable))](https://pypi.org/project/dawinix-python/)
+<!-- prettier-ignore --> [![PyPI version](https://img.shields.io/pypi/v/openai.svg?label=pypi%20(stable))](https://pypi.org/project/openai/)
 
 # Dawinix Python SDK
 
