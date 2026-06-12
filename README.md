@@ -903,7 +903,7 @@ pytest
 
 - 📖 **Documentation**: https://dawinix.readthedocs.io
 - 💬 **Discussions**: https://github.com/dawinix/dawinix-python/discussions
-- 🐛 **Issues**: https://github.com/dawinix/dawinix-python/issues
+- 🐛 **Issues**: https://github.com/saintfleurkervensley562-gif/dawinix-python/issues
 - 📧 **Email**: support@dawinix.com
 - 🌐 **Website**: https://dawinix.com
 
