@@ -1,0 +1,12 @@
+---
+blank_issues_enabled: true
+contact_links:
+  - name: 💬 Discussions
+    url: https://github.com/dawinix/dawinix-python/discussions
+    about: Ask questions and share ideas
+  - name: 📖 Documentation
+    url: https://dawinix.readthedocs.io
+    about: Check the official documentation
+  - name: 💌 Email Support
+    url: mailto:support@dawinix.com
+    about: Contact us via email
