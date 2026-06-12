@@ -1,8 +1,8 @@
-[![PyPI version](https://img.shields.io/pypi/v/dawinix-sdk.svg?label=PyPI)](https://pypi.org/project/dawinix-sdk/)
-[![Python Version](https://img.shields.io/pypi/pyversions/dawinix-sdk.svg)](https://pypi.org/project/dawinix-sdk/)
+[![PyPI version](https://img.shields.io/pypi/v/dawinix-python.svg?label=PyPI)](https://pypi.org/project/dawinix-python/)
+[![Python Version](https://img.shields.io/pypi/pyversions/dawinix-python.svg)](https://pypi.org/project/dawinix-python/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Build Status](https://github.com/dawinix/dawinix-python/workflows/tests/badge.svg)](https://github.com/dawinix/dawinix-python)
-[![Code Coverage](https://img.shields.io/badge/coverage-95%25-brightgreen.svg)](https://github.com/dawinix/dawinix-python)
+[![Build Status](https://github.com/saintfleurkervensley562-gif/dawinix-python/workflows/tests/badge.svg)](https://github.com/saintfleurkervensley562-gif/dawinix-python)
+[![Code Coverage](https://img.shields.io/badge/coverage-95%25-brightgreen.svg)](https://github.com/saintfleurkervensley562-gif/dawinix-python)
 
 # 🤖 Dawinix Python SDK
 
