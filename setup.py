@@ -15,7 +15,7 @@ setup(
     description="Official Python SDK for Dawinix API",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/dawinix/dawinix-python",
+    url="https://github.com/saintfleurkervensley562-gif/dawinix-python",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
